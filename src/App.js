@@ -190,6 +190,7 @@ export default class App extends Component {
         submitHandler={this.submitHandler}
         arr = {this.state.arr}
         modal = {this.state.modal}
+        countHendler={this.countHendler}
         />
         <Test/>
       </div>

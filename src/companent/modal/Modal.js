@@ -82,7 +82,7 @@ export default function Modal(props) {
                   <button className='modal__btndec'>+</button>
                 </div>
                 {/* {console.log()} */}
-                {summa += item.price}
+              {console.log(summa += item.price)}
               </li>
               
             ))}
