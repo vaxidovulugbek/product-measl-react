@@ -1,0 +1,60 @@
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.header{
+  padding: 14px 0;
+  background-color: #8A2B06;
+  z-index: 100;
+}
+.container {
+  width: 80%;
+  margin: 0 auto;
+  z-index: 100;
+}
+.header__title {
+  font-size: 34px;
+  font-weight: bold;
+  color: #fff;
+  z-index: 10;
+
+}
+.header__info {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  z-index: 100;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
